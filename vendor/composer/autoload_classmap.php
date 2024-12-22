@@ -11,6 +11,7 @@ return array(
     'App\\Http\\Resources\\postsResource' => $baseDir . '/app/Http/Resources/postsResource.php',
     'App\\Models\\Staff' => $baseDir . '/app/Models/Staff.php',
     'App\\Models\\User' => $baseDir . '/app/Models/User.php',
+    'App\\Models\\informasi_publiks' => $baseDir . '/app/Models/informasi_publiks.php',
     'App\\Providers\\AppServiceProvider' => $baseDir . '/app/Providers/AppServiceProvider.php',
     'Attribute' => $vendorDir . '/symfony/polyfill-php80/Resources/stubs/Attribute.php',
     'Brick\\Math\\BigDecimal' => $vendorDir . '/brick/math/src/BigDecimal.php',
