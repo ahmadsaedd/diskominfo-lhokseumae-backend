@@ -1,4 +1,4 @@
-name: Backend Deploying
+name: Backend Diskominfo Deploying
 
 on:
   push:
@@ -19,4 +19,4 @@ jobs:
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
           local-dir: "./"
-          server-dir: "/rm-simangat.portofolio.great-site.net/htdocs/"
+          server-dir: "/kominfolhokseumawe.rf.gd/htdocs/"
