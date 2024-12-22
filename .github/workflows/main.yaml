@@ -1,4 +1,4 @@
-name: Backend Diskominfo Deploying
+name: Backend Diskominfo Deploy
 
 on:
   push:
