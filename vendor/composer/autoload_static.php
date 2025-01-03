@@ -516,6 +516,7 @@ class ComposerStaticInit626b9e7ddd47fb7eff9aaa53cce0c9ad
     public static $classMap = array (
         'App\\Http\\Controllers\\Controller' => __DIR__ . '/../..' . '/app/Http/Controllers/Controller.php',
         'App\\Http\\Controllers\\api\\postsController' => __DIR__ . '/../..' . '/app/Http/Controllers/api/postsController.php',
+        'App\\Http\\Middleware\\CorsMiddleware' => __DIR__ . '/../..' . '/app/Http/Middleware/CorsMiddleware.php',
         'App\\Http\\Resources\\postsResource' => __DIR__ . '/../..' . '/app/Http/Resources/postsResource.php',
         'App\\Models\\Staff' => __DIR__ . '/../..' . '/app/Models/Staff.php',
         'App\\Models\\User' => __DIR__ . '/../..' . '/app/Models/User.php',
