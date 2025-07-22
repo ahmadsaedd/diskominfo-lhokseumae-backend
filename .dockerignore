@@ -1,0 +1,10 @@
+.git
+.vscode
+.env
+node_modules/
+vendor/
+storage/*.log
+.DS_Store
+npm-debug.log
+yarn-error.log
+.idea/
